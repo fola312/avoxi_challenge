@@ -1,0 +1,7 @@
+{
+  "First Name": "Jean-Luc",
+  "Last Name": "Picard",
+  "email": "JP@uss-enterprise.com",
+  "business": "Explorer",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
